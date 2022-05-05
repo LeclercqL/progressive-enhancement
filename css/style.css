@@ -1,0 +1,82 @@
+body {
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Open Sans', sans-serif;
+    font-size: medium;
+    background-color: #E4FBFF;
+}
+header{
+    text-align: center;
+}
+
+header>span {
+    background-color: yellow;
+}
+
+.ph-mons {
+    float: right;
+    margin: 5%;
+    margin-top: 20%;
+    border-radius: 10%;
+    width: 750px;
+    height: 671px;
+}
+
+section:nth-child(3) {
+    font-family: 'serif font';
+    font-size: large;
+    word-spacing: 2px;
+    color: darkblue;
+}
+
+.farmer {
+    border-left: 3px solid;
+    border-left-color: orange;
+}
+
+.villagers {
+    border-left: 3px solid;
+    border-left-color: burlywood;
+}
+
+blockquote {
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 160%;
+    background-color: rgba(112, 107, 107, 0.3);
+    border-left: 3px dashed black;
+    padding-top: 80px;
+    padding-left: 30px;
+    padding-bottom: 80px;
+    font-style: italic;
+}
+
+tr:nth-child(even) {
+    background-color: grey;
+}
+
+.maju {
+    text-transform: capitalize;
+}
+
+.good {
+    color: green;
+}
+
+.bad {
+    color: red;
+}
+
+a {
+    font-variant: small-caps;
+}
+
+a:hover {
+    background-color: greenyellow;
+}
+
+a:visited {
+    color: purple;
+}
