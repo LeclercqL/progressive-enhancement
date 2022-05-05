@@ -1,6 +1,5 @@
 # Projet pour BeCode
 Le but était de transformer ce projet md en html et rajouter du css en suivant des consignes.  
-Url du projet : https://leclercql.github.io/progressive-enhancement  
 
 Texte en md brut  
 The Story of the Chinese Farmer
